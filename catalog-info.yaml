@@ -5,7 +5,9 @@ metadata:
   description: demo
   annotations:
     github.com/project-slug: paul-hopper/react-demo
+    backstage.io/source-ref: "https://github.com/paul-hopper/react-demo"
     backstage.io/techdocs-ref: url:https://github.com/paul-hopper/react-demo
+    backstage.io/github-actions-id: https://github.com/paul-hopper/react-demo
 spec:
   type: website
   lifecycle: experimental
