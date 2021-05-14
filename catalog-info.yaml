@@ -11,3 +11,5 @@ spec:
   lifecycle: experimental
   owner: paulcroarkin
   system: hopper
+  consumesApis:
+    - go-lang-demo
